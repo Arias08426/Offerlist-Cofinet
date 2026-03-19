@@ -1,0 +1,24 @@
+producer,farm,origin,varietal,process,score,flavor_profile,bags,kg_per_bag,price,currency,category,country
+Diofanor Ruiz,La Divisa,Colombia,Castillo,WASHED,88,"Orange cake, molasses, vanilla, honey",16,35,24,AUD,regional,Australia
+Jairo Arcila,Santa Monica,Colombia,Caturra,WASHED,87.5,"Brown spices, blackberries, cacao nibs, tangerine",18,35,24,AUD,regional,Australia
+Luz Helena Salazar,Maracay,Colombia,Castillo,NATURAL,87.5,"Red fruits, raisins, raspberry, orange, apricot, caramel",10,35,27,AUD,regional,Australia
+Luz Helena Salazar,La Leona,Colombia,Caturra,WASHED,87.25,"Caramel, apricot, lime, chocolate",20,35,24,AUD,regional,Australia
+El Indio,,Colombia,Caturra,NATURAL,87,"Passionfruit, chocolate, wine and orange",172,35/70,26.5,AUD,regional,Australia
+Guji Shakisso,Gigesa G1,Ethiopia,Heirloom,WASHED,87,"Honey, stone fruits, lime, floral",124,60,19,AUD,regional,Australia
+Luis Anibal Calderon,Villa Betulia,Colombia,Caturra,HONEY,87,"Guava jelly, honey, lime, tangerine, apricot",43,35,25,AUD,regional,Australia
+La Flecha,,Colombia,Castillo,HONEY,86,"Grapefruit, guava, stone-fruits and caramel",207,35,24,AUD,regional,Australia
+Jairo Arcila,Santa Monica,Colombia,Gesha,NATURAL,89,"Rose Petals, Jasmine, Honey, red Fruits",2,24,25,AUD,upcoming-coffee,Australia
+Linarco Rodriguez,El Diviso,Colombia,Gesha,WASHED,89,"Plum, mandarine, Vanilla",3,24,25,AUD,upcoming-coffee,Australia
+Luis Anibal Calderon,Villa Betulia,Colombia,Papayo,EF2 NATURAL,89,"Floral, Caramel, Hazelnut syrup",5,24,25,AUD,upcoming-coffee,Australia
+Diofanor Ruiz,La Divisa,Colombia,Castillo,WASHED,88,"Orange cake, molasses, vanilla, honey",16,35,24,AUD,regional-plus,Australia
+Jairo Arcila,,Colombia,Caturra,WASHED,87.5,"Brown spices, blackberries, cacao nibs, tangerine",18,35,24,AUD,regional-plus,Australia
+Luz Helena Salazar,Maracay,Colombia,Castillo,NATURAL,87.5,"Red fruits, raisins, raspberry, orange, apricot, caramel",10,35,27,AUD,regional-plus,Australia
+Diofanor Ruiz,La Divisa,Colombia,Castillo,WASHED,88,"Orange cake, molasses, vanilla, honey",16,35,24,AUD,single-estate,Australia
+Jairo Arcila,Santa Monica,Colombia,Caturra,WASHED,87.5,"Brown spices, blackberries, cacao nibs, tangerine",18,35,24,AUD,single-estate,Australia
+Diofanor Ruiz,La Divisa,Colombia,Castillo,WASHED,92,"Chocolate, caramel, bergamot, rose",5,30,55,AUD,microlots,Australia
+Jairo Arcila,Santa Monica,Colombia,Gesha,NATURAL,93,"Jasmine, tropical fruits, honey",3,30,80,AUD,microlots,Australia
+Gesha Origins,,Panama,Gesha,WASHED,94,"Floral, bergamot, peach, honey",2,20,120,AUD,exotics,Australia
+Yirgacheffe Kochere,,Ethiopia,Heirloom,NATURAL,90.5,"Blueberry, lavender, dark chocolate, wine",8,60,38,AUD,exotics,Australia
+Diofanor Ruiz,La Divisa,Colombia,Castillo,WASHED,88,"Orange cake, molasses, vanilla, honey",16,35,22,AUD,regional,New Zealand
+Jairo Arcila,,Colombia,Caturra,WASHED,87.5,"Brown spices, blackberries, cacao nibs, tangerine",18,35,22,AUD,regional,New Zealand
+El Indio,,Colombia,Caturra,NATURAL,87,"Passionfruit, chocolate, wine and orange",50,35,24.5,AUD,regional,New Zealand
